@@ -3,7 +3,6 @@ import cors from "cors";
 
 const app: Application = express();
 
-// import all the route 
 
 
 

@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/successes/.19b22ace120c5c4af0bf9e3582a3b1fa0a824b59-audit.json",
+    "files": [
+        {
+            "date": 1686987952055,
+            "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/successes/ums-2023-17-06-13-success.log",
+            "hash": "98e533b91b08fb2858628683b7af51610dd9f301176c8f00bfae58c93b5dd696"
+        }
+    ],
+    "hashType": "sha256"
+}

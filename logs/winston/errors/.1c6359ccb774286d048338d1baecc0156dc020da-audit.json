@@ -1,25 +1,25 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/errors/.1c6359ccb774286d048338d1baecc0156dc020da-audit.json",
+  "files": [
+    {
+      "date": 1686987952058,
+      "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/errors/ums-2023-17-06-13-error.log",
+      "hash": "44f98d7be5209b2547353b9e828800463c21f7652fdf7f33ace0cfa9c452fc55"
     },
-    "auditLog": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/errors/.1c6359ccb774286d048338d1baecc0156dc020da-audit.json",
-    "files": [
-        {
-            "date": 1686987952058,
-            "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/errors/ums-2023-17-06-13-error.log",
-            "hash": "44f98d7be5209b2547353b9e828800463c21f7652fdf7f33ace0cfa9c452fc55"
-        },
-        {
-            "date": 1687144136561,
-            "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/errors/ums-2023-19-06-09-error.log",
-            "hash": "4f333b6072f0a0c524d89ae41fc328ac521e434832b2da419c176b5f5033f49a"
-        },
-        {
-            "date": 1687316910544,
-            "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/errors/ums-2023-21-06-09-error.log",
-            "hash": "4766a121af161d111f43d081b6b4bc046739ae222940ae4485963ed3f92228df"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1687144136561,
+      "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/errors/ums-2023-19-06-09-error.log",
+      "hash": "4f333b6072f0a0c524d89ae41fc328ac521e434832b2da419c176b5f5033f49a"
+    },
+    {
+      "date": 1687316910544,
+      "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/errors/ums-2023-21-06-09-error.log",
+      "hash": "4766a121af161d111f43d081b6b4bc046739ae222940ae4485963ed3f92228df"
+    }
+  ],
+  "hashType": "sha256"
 }

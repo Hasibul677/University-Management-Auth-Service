@@ -1,25 +1,25 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/successes/.19b22ace120c5c4af0bf9e3582a3b1fa0a824b59-audit.json",
+  "files": [
+    {
+      "date": 1686987952055,
+      "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/successes/ums-2023-17-06-13-success.log",
+      "hash": "98e533b91b08fb2858628683b7af51610dd9f301176c8f00bfae58c93b5dd696"
     },
-    "auditLog": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/successes/.19b22ace120c5c4af0bf9e3582a3b1fa0a824b59-audit.json",
-    "files": [
-        {
-            "date": 1686987952055,
-            "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/successes/ums-2023-17-06-13-success.log",
-            "hash": "98e533b91b08fb2858628683b7af51610dd9f301176c8f00bfae58c93b5dd696"
-        },
-        {
-            "date": 1687144136557,
-            "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/successes/ums-2023-19-06-09-success.log",
-            "hash": "dbca276b6d7e9c1fe5204489a2ce9cb7836ed1b11d8765d9b06c96f46bfd5c8c"
-        },
-        {
-            "date": 1687316910538,
-            "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/successes/ums-2023-21-06-09-success.log",
-            "hash": "b9e2e2e9dc37e5e4d3a0c25adcf58be8fd32f2fafa2e3363fb0d1116796c3ef9"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1687144136557,
+      "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/successes/ums-2023-19-06-09-success.log",
+      "hash": "dbca276b6d7e9c1fe5204489a2ce9cb7836ed1b11d8765d9b06c96f46bfd5c8c"
+    },
+    {
+      "date": 1687316910538,
+      "name": "/home/hasib-pro/NEXT LEVEL/University-Management-Auth-Service/logs/winston/successes/ums-2023-21-06-09-success.log",
+      "hash": "b9e2e2e9dc37e5e4d3a0c25adcf58be8fd32f2fafa2e3363fb0d1116796c3ef9"
+    }
+  ],
+  "hashType": "sha256"
 }
